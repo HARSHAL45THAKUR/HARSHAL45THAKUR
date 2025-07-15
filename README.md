@@ -70,6 +70,7 @@ I specialize in automating deployment pipelines, container orchestration, and in
 </p>
 
 
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -79,9 +80,10 @@ I specialize in automating deployment pipelines, container orchestration, and in
 
 ---
 
-### 🐍 Contribution Graph
+### 🐍 Dynamic Contribution Graph
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
 
 
 ---
