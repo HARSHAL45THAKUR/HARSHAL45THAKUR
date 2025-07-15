@@ -3,7 +3,7 @@
 
 ---
 
-**Cloud & DevOps Engineer experienced in designing and deploying scalable cloud infrastructure using Terraform, AWS, and Kubernetes.**  
+**Cloud & DevOps enthusiast experienced in designing and deploying scalable cloud infrastructure using Terraform, AWS, and Kubernetes.**  
 I specialize in automating deployment pipelines, container orchestration, and infrastructure provisioning using modern DevOps tools. I’ve built production-grade projects involving GitOps, monitoring, and multi-cloud provisioning — with a strong focus on IaC and CI/CD practices.
 
 ---
