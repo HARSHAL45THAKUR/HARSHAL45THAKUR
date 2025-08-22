@@ -11,8 +11,8 @@ I specialize in automating deployment pipelines, container orchestration, and in
 ### My Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40"/>
-  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/HARSHAL45THAKUR/HARSHAL45THAKUR/refs/heads/main/aws-color.webp" alt="AWS" width="40"/>
+&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" />
