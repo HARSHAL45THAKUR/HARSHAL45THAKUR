@@ -103,7 +103,15 @@ I specialize in automating deployment pipelines, container orchestration, and in
 
 > "DevOps isn't just tools – it's a mindset. Automate the boring. Empower the building."
 
----
+
+<p align="center">
+  <a href="https://github.com/HARSHAL45THAKUR">
+    <img src="https://komarev.com/ghpvc/?username=HARSHAL45THAKUR&label=Profile%20views&color=green&style=flat" alt="profile views" />
+  </a>
+  <a href="https://github.com/HARSHAL45THAKUR?tab=followers">
+    <img src="https://img.shields.io/github/followers/HARSHAL45THAKUR?label=Follow&style=social" alt="GitHub followers" />
+  </a>
+</p>
 
 
 
