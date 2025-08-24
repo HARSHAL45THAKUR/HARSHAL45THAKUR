@@ -8,33 +8,41 @@ I specialize in automating deployment pipelines, container orchestration, and in
 
 ---
 
-### My Tech Stack
+### 🛠 Tech Stack
 
+#### Languages & Frameworks
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40"/>
+</p>
+
+#### Cloud & DevOps
 <p align="left">
   <img src="https://raw.githubusercontent.com/HARSHAL45THAKUR/HARSHAL45THAKUR/refs/heads/main/aws-color.webp" alt="AWS" width="40"/>
-&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40"/>
   &nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" alt="Linux" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="MySQL" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40"/>
 </p>
+
+#### Databases & Monitoring
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="40"/>
+</p>
+
 
 
 ###  Featured Projects
@@ -73,8 +81,14 @@ I specialize in automating deployment pipelines, container orchestration, and in
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HARSHAL45THAKUR&show_icons=true&theme=tokyonight" alt="Harshal's GitHub stats" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHAL45THAKUR&layout=compact&theme=tokyonight" alt="Top Langs" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HARSHAL45THAKUR&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866" alt="Harshal's GitHub stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHAL45THAKUR&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Langs" width="40%" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HARSHAL45THAKUR&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=F8D866&currStreakLabel=58A6FF" alt="GitHub Streak" height="180"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHAL45THAKUR&bg_color=0d1117&color=58A6FF&line=F8D866&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
