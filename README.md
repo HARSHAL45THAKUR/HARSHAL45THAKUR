@@ -95,8 +95,7 @@ I specialize in automating deployment pipelines, container orchestration, and in
 
 ### 🐍 Contribution Graph
 
-![snake gif](https://github.com/HARSHAL45THAKUR/HARSHAL45THAKUR/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/HARSHAL45THAKUR/HARSHAL45THAKUR/blob/output/github-snake-dark.svg)
 
 ---
 
